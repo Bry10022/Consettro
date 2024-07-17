@@ -5,7 +5,7 @@ FamilyName: Consettro
 Weight: Regular
 Copyright: (C) 2024, Bryndan Meyerholt
 UComments: "2024-6-6: Created with FontForge (http://fontforge.org)"
-Version: 1.005
+Version: 1.006
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1717675935
-ModificationTime: 1721173513
+ModificationTime: 1721225586
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,6 +56,7 @@ Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8-1" 
 Lookup: 1 0 0 "Single Substitution lookup 9" { "Single Substitution lookup 9-1"  } []
 Lookup: 1 0 0 "Single Substitution lookup 10" { "Single Substitution lookup 10-1"  } []
 Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 11" { "'ccmp' Glyph Composition/Decomposition lookup 11-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 12" { "'ccmp' Glyph Composition/Decomposition lookup 12-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ContextSub2: coverage "'locl' Localized Forms in Latin lookup 7-2" 0 0 0 1
@@ -90759,7 +90760,7 @@ StartChar: uni2713
 Encoding: 2607 10003 2607
 Width: 1600
 VWidth: 1000
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
@@ -137199,6 +137200,7 @@ SplineSet
  900 0 l 1
 EndSplineSet
 Validated: 1
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 12-1" u1D377 u1D377
 EndChar
 
 StartChar: v1D377u1D377u1D377.ccmp
@@ -137226,6 +137228,7 @@ SplineSet
  1100 0 l 1
 EndSplineSet
 Validated: 1
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 12-1" u1D377 u1D377 u1D377
 EndChar
 
 StartChar: u1D377u1D377u1D377u1D377.ccmp
@@ -137258,6 +137261,7 @@ SplineSet
  1300 0 l 1
 EndSplineSet
 Validated: 1
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 12-1" u1D377 u1D377 u1D377 u1D377
 EndChar
 
 StartChar: u1D378
@@ -154222,7 +154226,7 @@ StartChar: u1D2F3
 Encoding: 4852 119539 4852
 Width: 1600
 VWidth: 1000
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
