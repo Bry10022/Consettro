@@ -2,6 +2,14 @@ Here is the changelog of the Consettro font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.007 - Released 02/01/2025
+
+Additions
+- Duplicated characters from emoji codepoints into SLC codepoints for Unicode 17.
+- Added Geomantic figures, although they are not yet final.
+
+-------------------------------------------------------------------------------
+
 Version 1.006 - Released 07/17/2024
 
 Additions
