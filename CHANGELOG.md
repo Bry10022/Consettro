@@ -2,6 +2,14 @@ Here is the changelog of the Consettro font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.008 - Released 09/18/2025
+
+Additions
+- Added Riyal signs.
+- Fixed U+1EEF and U+20AA.
+
+-------------------------------------------------------------------------------
+
 Version 1.007 - Released 02/01/2025
 
 Additions
